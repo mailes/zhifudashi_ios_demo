@@ -46,9 +46,11 @@
 
 ```
 
+
 ### 交流群：QQ：385468484
 
 ### 更多demo
-php:   
-java: https://github.com/mailes/zhifudashi_ios_demo   
-android:   
+php:   https://github.com/mailes/zhifudashi_php_demo  
+ios: https://github.com/mailes/zhifudashi_ios_demo    
+android: https://github.com/mailes/zhifudashi_android_demo   
+java:https://github.com/mailes/zhifudashi_java_demo   
