@@ -50,5 +50,5 @@
 
 ### 更多demo
 php:   
-java: [https://github.com/mailes/zhifudashi_ios_demo]  
+java: https://github.com/mailes/zhifudashi_ios_demo   
 android:   
